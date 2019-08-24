@@ -1,0 +1,26 @@
+[
+  {
+    "id": 123,
+    "title": "CS5610 Web Development",
+    "owner": "me",
+    "modified":"5/29/2019, 5:10:59 PM"
+  },
+  {
+    "id": 234,
+    "title": "CS5200 Database Management Systems",
+    "owner": "me",
+    "modified":"5/29/2019, 5:20:59 PM"
+  },
+  {
+    "id": 345,
+    "title": "CS5010 Programing Design Paradigms",
+    "owner": "me",
+    "modified":"5/28/2019, 5:20:59 PM"
+  },
+  {
+    "id": 456,
+    "title": "CS6140 Machine Learning",
+    "owner": "me",
+    "modified":"5/27/2019, 5:30:59 PM"
+  }
+]

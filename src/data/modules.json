@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "courseId": "0",
+    "title": "Module 1 1"
+  },
+  {
+    "id": "2",
+    "courseId": "0",
+    "title": "Module 1 2"
+  },
+  {
+    "id": "3",
+    "courseId": "0",
+    "title": "Module 1 3"
+  },
+  {
+    "id": "4",
+    "courseId": "0",
+    "title": "Module 1 4"
+  },
+  {
+    "id": "5",
+    "courseId": "1",
+    "title": "Module 2 2"
+  },
+  {
+    "id": "6",
+    "courseId": "1",
+    "title": "Module 2 3"
+  }
+]
